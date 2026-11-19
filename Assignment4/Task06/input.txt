@@ -1,0 +1,2 @@
+Fleet: Bicycle, TwoWheeler, Car, ElectricCar, ElectricBus
+Duration: 3 days, Late: 1 day

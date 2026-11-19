@@ -1,0 +1,2 @@
+StandardAccount: 3.5%
+SeniorAccount: 4.0% (history: 100 entries)

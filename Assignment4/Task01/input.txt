@@ -1,0 +1,3 @@
+Prof: Dr. Anand Kumar, 80000, 15000
+LabAsst: Bala Murugan, 35000
+Guest: Chitra Ramesh, 40 hrs, 1200/hr

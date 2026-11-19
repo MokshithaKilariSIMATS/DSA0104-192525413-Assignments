@@ -1,0 +1,1 @@
+TA: Kavya, ID: 101, Phone: 9876543210, Prog: AI&ML, CGPA: 9.4, Dept: CSE, Salary: 25000, LabHrs: 10

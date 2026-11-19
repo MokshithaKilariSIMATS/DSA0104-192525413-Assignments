@@ -1,0 +1,2 @@
+Items: Rice (60), Dal (120), Oil (180)
+Discount: 10%
