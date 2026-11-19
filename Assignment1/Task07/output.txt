@@ -1,0 +1,6 @@
+Procedural version
+Fare Rs 10.00: Accepted | Balance Rs 90.00
+
+OOP version
+Fare Rs 10.00: Accepted | Balance Rs 90.00
+Encapsulation check: balance is private inside SmartCard.

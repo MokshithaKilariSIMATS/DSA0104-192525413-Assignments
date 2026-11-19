@@ -1,0 +1,11 @@
+Revised Fare Policy
+-------------------
+Airport off-peak weekday -> Rs 60.0
+Airport peak weekday -> Rs 72.0
+Airport peak weekend -> Rs 54.0
+Inner weekend off-peak -> Rs 9.0
+
+Monthly Pass: Inner + Airport, valid days 1-30
+Airport day 15 covered : true
+Outer day 15 covered   : false
+Airport day 31 covered : false

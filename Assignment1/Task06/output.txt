@@ -1,0 +1,4 @@
+Initial balance: Rs 100.00
+Accepted | Fare Rs 10.00 | Balance Rs 90.00
+Accepted | Fare Rs 36.00 | Balance Rs 54.00
+Denied   | Balance unchanged

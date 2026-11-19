@@ -1,0 +1,1 @@
+No keyboard input. Uses the assignment's three network-scale examples and a measured local floating-point loop.

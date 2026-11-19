@@ -1,0 +1,2 @@
+Enter hour (0-23): Valid hour accepted: 8:00
+Formatted fare: Rs 10.20

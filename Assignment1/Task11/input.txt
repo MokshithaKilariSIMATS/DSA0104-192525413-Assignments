@@ -1,0 +1,1 @@
+No keyboard input. Demonstrates the recommended OOP design with central fare policy.

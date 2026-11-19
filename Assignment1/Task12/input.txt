@@ -1,0 +1,1 @@
+No keyboard input. Tests Airport fare, weekend precedence and two-zone MonthlyPass coverage.

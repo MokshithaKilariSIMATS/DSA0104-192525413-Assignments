@@ -1,0 +1,11 @@
+$ g++ -std=c++17 -Wall -Wextra -Wconversion -pedantic /mnt/data/Mokshitha_Kilari_Assessment1_CPP_Repository/Task09/main.cpp -o /mnt/data/Mokshitha_Kilari_Assessment1_CPP_Repository/Task09/program
+
+/mnt/data/Mokshitha_Kilari_Assessment1_CPP_Repository/Task09/main.cpp: In function ‘int main()’:
+/mnt/data/Mokshitha_Kilari_Assessment1_CPP_Repository/Task09/main.cpp:44:86: warning: conversion from ‘long long int’ to ‘double’ may change value [-Wconversion]
+   44 |              << " Expected Rs " << setw(6) << right << fixed << setprecision(2) << t.expected/100.0
+      |                                                                                    ~~^~~~~~~~
+/mnt/data/Mokshitha_Kilari_Assessment1_CPP_Repository/Task09/main.cpp:45:45: warning: conversion from ‘long long int’ to ‘double’ may change value [-Wconversion]
+   45 |              << " Actual Rs " << setw(6) << actual/100.0
+      |                                             ^~~~~~
+
+Compile status: SUCCESS

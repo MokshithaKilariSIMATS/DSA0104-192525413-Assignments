@@ -1,0 +1,1 @@
+No keyboard input. Demonstrates C++ tokens and typed constants.

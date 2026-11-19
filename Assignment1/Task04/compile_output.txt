@@ -1,0 +1,8 @@
+$ g++ -std=c++17 -Wall -Wextra -Wconversion -pedantic /mnt/data/Mokshitha_Kilari_Assessment1_CPP_Repository/Task04/main.cpp -o /mnt/data/Mokshitha_Kilari_Assessment1_CPP_Repository/Task04/program
+
+/mnt/data/Mokshitha_Kilari_Assessment1_CPP_Repository/Task04/main.cpp: In function ‘int main()’:
+/mnt/data/Mokshitha_Kilari_Assessment1_CPP_Repository/Task04/main.cpp:16:39: warning: comparison of integer expressions of different signedness: ‘int’ and ‘unsigned int’ [-Wsign-compare]
+   16 |     cout << boolalpha << (signedValue < unsignedValue) << "\n";
+      |                           ~~~~~~~~~~~~^~~~~~~~~~~~~~~
+
+Compile status: SUCCESS

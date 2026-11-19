@@ -1,0 +1,11 @@
+Fare Logic Test Suite
+---------------------
+T1 Inner 07:59       Expected Rs  10.00 Actual Rs  10.00 [PASS]
+T2 Inner 08:00       Expected Rs  12.00 Actual Rs  12.00 [PASS]
+T3 Middle 09:59      Expected Rs  24.00 Actual Rs  24.00 [PASS]
+T4 Middle 10:00      Expected Rs  20.00 Actual Rs  20.00 [PASS]
+T5 Outer 17:00       Expected Rs  36.00 Actual Rs  36.00 [PASS]
+T6 Outer 19:59       Expected Rs  36.00 Actual Rs  36.00 [PASS]
+T7 Outer 20:00       Expected Rs  30.00 Actual Rs  30.00 [PASS]
+
+Result: 7/7 tests passed.

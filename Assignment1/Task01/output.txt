@@ -1,0 +1,7 @@
+Passenger ID : P1025
+Category     : student
+Concession   : Eligible
+Initial card balance : Rs 100.00
+Fare for journey     : Rs 12.00
+Journey accepted     : Yes
+Remaining balance    : Rs 88.0

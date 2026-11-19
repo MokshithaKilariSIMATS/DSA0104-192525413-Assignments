@@ -1,0 +1,8 @@
+Keyword examples   : class, constexpr, if, return
+Identifier examples: FareDemo, MIN_BALANCE_PAISE, hour
+Constant values    : 5000 paise, 20 percent
+Operators           : +  -  >=  &&  ?:  %
+enum class example  : Zone::Inner
+Current hour        : 8
+Peak status         : true
+Selected zone       : Inner

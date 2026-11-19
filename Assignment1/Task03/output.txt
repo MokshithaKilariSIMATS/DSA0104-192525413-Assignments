@@ -1,0 +1,13 @@
+Fare (paise) : 1020
+Peak flag    : true
+Hour         : 9
+Grade        : A
+Measurement  : 12.5
+
+sizeof(int)       = 4 bytes
+sizeof(long long) = 8 bytes
+sizeof(double)    = 8 bytes
+INT_MAX           = 2147483647
+LLONG_MAX         = 9223372036854775807
+
+3,000,000 journeys at Rs 36.00 = 10800000000 paise

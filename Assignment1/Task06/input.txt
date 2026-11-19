@@ -1,0 +1,1 @@
+No keyboard input. Processes three journeys using switch, if and loop control structures.

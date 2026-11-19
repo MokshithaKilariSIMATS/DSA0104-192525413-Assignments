@@ -1,0 +1,1 @@
+No keyboard input. Demonstrates arithmetic, increment, conditional, modulo and precedence.

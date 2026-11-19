@@ -1,0 +1,17 @@
+Network-scale comparison
+Maximum fare assumption: Rs 36.00 per journey
+
+     20000 journeys -> Rs 720000.00 | paise = 72000000 | int32 = Fits
+    500000 journeys -> Rs 18000000.00 | paise = 1800000000 | int32 = Fits
+   3000000 journeys -> Rs 108000000.00 | paise = 10800000000 | int32 = OVERFLOW
+
+Actual environment values
+sizeof(int)       = 4
+sizeof(long long) = 8
+sizeof(double)    = 8
+INT_MAX           = 2147483647
+LLONG_MAX         = 9223372036854775807
+
+Double sum of 0.10 x 1,000,000 = 100000.0000013329
+Integer paise sum              = 10000000 paise
+Integer representation avoids floating-point accumulation error.
