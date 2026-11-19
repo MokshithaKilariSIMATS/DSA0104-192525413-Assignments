@@ -1,0 +1,2 @@
+OutPatient: Ravi, Cons: 500, Tests: 1200
+InPatient: Meena, Days: 3, Rate: 2500, Surg: 40000
